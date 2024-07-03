@@ -88,11 +88,7 @@ ul li a:hover{
 }
 
 .content img{
-    float: right;
     margin-top: 40px;
-    position: fixed;
-    margin-left: 650px;
-
 }
 
 .content h1{
